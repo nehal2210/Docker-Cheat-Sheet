@@ -10,7 +10,7 @@
 - docker pull [name of docker image] --> download docker image from docker hub
 
 
-- docker run -it -d --name [name your contrainer/optional] [name of docker image] -> to make container of image
+- docker run -it -d --name [name your contrainer/optional] [name of docker image] --> to make container of image
     * -it --> interactive
     *  -d --> detached
     *    --name -> if you want to give name
@@ -43,7 +43,7 @@
 
 - docker login --> Log in to the Docker registry account by entering docker login on your terminal
 
-- docker tag python-hello-world [dockerhub username]/python-hello-world
+- docker tag python-hello-world [dockerhub username]/python-hello-world --> tag your image with your username
 
 - docker push jzaccone/python-hello-world --> After you properly tag the image, use the docker push command to push your image to the Docker Hub registry
  
