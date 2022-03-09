@@ -116,7 +116,7 @@ You also don't need to follow more steps to provision these environments. Just o
 
 
  ### Note
- * You can do free certification course at <a href="https://cognitiveclass.ai/courses/docker-essentials">Docker Essentials: A Developer Introduction </a>*
+ *You can do free certification course at <a href="https://cognitiveclass.ai/courses/docker-essentials">Docker Essentials: A Developer Introduction </a>*
 
  
  
